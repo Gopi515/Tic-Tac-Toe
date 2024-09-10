@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Link - https://gopi515.github.io/Tic-Tac-Toe/
+Site is live at - https://gopi515.github.io/Tic-Tac-Toe/
 
 
 A classic Tic-Tac-Toe game with an intuitive user interface. The game allows
